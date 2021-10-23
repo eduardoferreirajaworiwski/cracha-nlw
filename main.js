@@ -3,6 +3,7 @@ const LinksSocialMedia = {
   linkedin: '/in/eduardoferreiraj',
   facebook: 'eduardoo.fj',
   instagram: 'eduardoo.fj',
+  twitter: 'rocketseat',
  
 }
 
